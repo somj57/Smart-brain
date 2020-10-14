@@ -165,10 +165,3 @@ class App extends Component {
 
 export default App;
 
-
-
-
-// c1544a8e25cb43eeb6b79211c70d1c5d
-
-
-//53e1df302c079b3db8a0a36033ed2d15
