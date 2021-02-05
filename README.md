@@ -1,4 +1,4 @@
-# This will detect the faces in the picture you only have give the url of the image
+# This will detect the faces in the picture you only have give the url of the image👾
 Visit :- 🔗 https://somj57.github.io/Smart-brain/
 
 ### This project can also be find on smart brains site 🚀
